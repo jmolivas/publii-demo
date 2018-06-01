@@ -3,12 +3,71 @@
     <title>wiki</title>
     <link href="https://jmolivas.github.io/publii-demo/feed.xml" rel="self" />
     <link href="https://jmolivas.github.io/publii-demo" />
-    <updated>2018-05-31T18:24:03-07:00</updated>
+    <updated>2018-05-31T18:37:18-07:00</updated>
     <author>
         <name>jesus-manuel-olivas</name>
     </author>
     <id>https://jmolivas.github.io/publii-demo</id>
 
+    <entry>
+        <title>Accounting</title>
+        <author>
+            <name>jesus-manuel-olivas</name>
+        </author>
+        <link href="https://jmolivas.github.io/publii-demo/Accounting.html"/>
+        <id>https://jmolivas.github.io/publii-demo/Accounting.html</id>
+
+        <updated>2018-05-31T18:32:40-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jmolivas.github.io/publii-demo/media/posts/4/" alt="" />
+                <h2 id="checklist-during-your-onboarding">Checklist during your onboarding</h2>
+<p class="comments-section">We welcome you to the <strong>Anexus</strong> team! As part of the onboarding process, we would like to cover the following topics:</p>
+<ul>
+<li>Welcome</li>
+<li>Contract in place (review contract length)</li>
+<li>Review invoicing</li>
+<li>Verify all access (Email, Unify People, Flowdock, Wiki, etc.)</li>
+<li>Time Tracking</li>
+<li>Wiki</li>
+<li>FlowDock</li>
+</ul>
+<h2 id="important">Important</h2>
+<p class="comments-section">We feel also important to share with what we have identified to makes things easier when working with remote teams. Almost like a recipe for success kind of thing:</p>
+<ul>
+<li>Your daily availability</li>
+<li>Expectations that partners have right when you come onboard</li>
+<li>Communication with your team</li>
+<li>Why saying NO is good</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Docker</title>
+        <author>
+            <name>jesus-manuel-olivas</name>
+        </author>
+        <link href="https://jmolivas.github.io/publii-demo/Docker.html"/>
+        <id>https://jmolivas.github.io/publii-demo/Docker.html</id>
+
+        <updated>2018-05-31T18:30:23-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Lando</title>
+        <author>
+            <name>jesus-manuel-olivas</name>
+        </author>
+        <link href="https://jmolivas.github.io/publii-demo/lando.html"/>
+        <id>https://jmolivas.github.io/publii-demo/lando.html</id>
+
+        <updated>2018-05-31T18:29:47-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction</title>
         <author>

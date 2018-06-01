@@ -10,6 +10,46 @@
     },
     "items": [
         {
+            "id": "https://jmolivas.github.io/publii-demo/Accounting.html",
+            "url": "https://jmolivas.github.io/publii-demo/Accounting.html",
+            "title": "Accounting",
+            "content_html": "<h2 id=\"checklist-during-your-onboarding\">Checklist during your onboarding</h2>\n<p class=\"comments-section\">We welcome you to the <strong>Anexus</strong> team! As part of the onboarding process, we would like to cover the following topics:</p>\n<ul>\n<li>Welcome</li>\n<li>Contract in place (review contract length)</li>\n<li>Review invoicing</li>\n<li>Verify all access (Email, Unify People, Flowdock, Wiki, etc.)</li>\n<li>Time Tracking</li>\n<li>Wiki</li>\n<li>FlowDock</li>\n</ul>\n<h2 id=\"important\">Important</h2>\n<p class=\"comments-section\">We feel also important to share with what we have identified to makes things easier when working with remote teams. Almost like a recipe for success kind of thing:</p>\n<ul>\n<li>Your daily availability</li>\n<li>Expectations that partners have right when you come onboard</li>\n<li>Communication with your team</li>\n<li>Why saying NO is good</li>\n</ul>",
+            "image": "https://jmolivas.github.io/publii-demo/media/posts/4/",
+            "author": {
+                "name": "jesus-manuel-olivas"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-31T18:32:18-07:00",
+            "date_modified": "2018-05-31T18:32:40-07:00"
+        },
+        {
+            "id": "https://jmolivas.github.io/publii-demo/Docker.html",
+            "url": "https://jmolivas.github.io/publii-demo/Docker.html",
+            "title": "Docker",
+            "image": "https://jmolivas.github.io/publii-demo/media/posts/3/",
+            "author": {
+                "name": "jesus-manuel-olivas"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-31T18:30:23-07:00",
+            "date_modified": "2018-05-31T18:30:23-07:00"
+        },
+        {
+            "id": "https://jmolivas.github.io/publii-demo/lando.html",
+            "url": "https://jmolivas.github.io/publii-demo/lando.html",
+            "title": "Lando",
+            "image": "https://jmolivas.github.io/publii-demo/media/posts/2/",
+            "author": {
+                "name": "jesus-manuel-olivas"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-31T18:29:47-07:00",
+            "date_modified": "2018-05-31T18:29:47-07:00"
+        },
+        {
             "id": "https://jmolivas.github.io/publii-demo/introduction.html",
             "url": "https://jmolivas.github.io/publii-demo/introduction.html",
             "title": "Introduction",
