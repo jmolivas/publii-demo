@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>wiki</title>
+    <link href="https://jmolivas.github.io/publii-demo/feed.xml" rel="self" />
+    <link href="https://jmolivas.github.io/publii-demo" />
+    <updated>2018-05-31T18:24:03-07:00</updated>
+    <author>
+        <name>jesus-manuel-olivas</name>
+    </author>
+    <id>https://jmolivas.github.io/publii-demo</id>
+
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>jesus-manuel-olivas</name>
+        </author>
+        <link href="https://jmolivas.github.io/publii-demo/introduction.html"/>
+        <id>https://jmolivas.github.io/publii-demo/introduction.html</id>
+
+        <updated>2018-05-31T18:04:49-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jmolivas.github.io/publii-demo/media/posts/1/" alt="" />
+                <p class="comments-section">The Wiki is intended to be the first go-to resource during the process of onboarding as well as during the term of your contract with <strong>Anexus</strong>.</p>
+<p class="comments-section">As a reminder, the Wiki is a live document under continuous development; we appreciate your feedback on the depth of the documentation so we can continue extending it. <strong>Also, feel free to create your own branch and make changes.</strong></p>
+<h2 id="about">About</h2>
+<p class="comments-section"><strong>Anexus</strong> is a Web Development Shop and Nearshore Staffing company located in Latin America. As a leader in the Drupal Community, <strong>Anexus</strong> works with local communities to spread the word on Drupal and its related technologies.</p>
+<p class="comments-section"><strong>Our Services</strong></p>
+<ul>
+<li>Web Development</li>
+<li>Allocation Services</li>
+<li>Training</li>
+<li>Audit / Consulting Services</li>
+</ul>
+<p class="comments-section"><strong>Our Areas of Expertise</strong></p>
+<ul>
+<li>Drupal Backend and Frontend Development</li>
+<li>JavaScript Libraries (jQuery, React, Marionette &amp; Ionic)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
